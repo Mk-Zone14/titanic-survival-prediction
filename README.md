@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle)
 
-My first end-to-end machine learning project built for Kaggle's **Titanic: Machine Learning from Disaster** competition.
+An end-to-end machine learning project built for Kaggle's **Titanic: Machine Learning from Disaster** competition. This project demonstrates the complete machine learning workflow, including exploratory data analysis, preprocessing, model training, evaluation, and Kaggle submission using Scikit-learn.
 
 ---
 
